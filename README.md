@@ -1,9 +1,10 @@
-🤸‍♀️ IncluFit: Aplicativo de Treino Acessível
+## 💪🏻 IncluFit: Aplicativo de Treino Acessível
 
 O IncluFit é um projeto com o objetivo de criar uma plataforma gratuita, acessível e inclusiva para pessoas com deficiência que enfrentam barreiras para praticar atividades físicas. O aplicativo busca diminuir o sedentarismo e a exclusão social, garantindo acesso democrático e adaptado à prática de exercícios.
 
+---
 
-💡 O Problema Social
+## O Problema Social
 
 Apesar da importância da atividade física para a saúde, pessoas com deficiência enfrentam barreiras significativas para se exercitarem. 
 
@@ -13,8 +14,9 @@ Isso resulta em exclusão social, sedentarismo e piora das condições de saúde
 
 O projeto busca reduzir essas desigualdades.
 
+---
 
-🎯 A Solução Proposta
+## 🎯 A Solução Proposta
 
 O IncluFit é uma plataforma gratuita, acessível e inclusiva. 
 
@@ -27,8 +29,9 @@ Recursos e Funcionalidades:
 - Rede de Voluntariado: Profissionais de Educação Física e fisioterapeutas poderão oferecer orientação individual ou em grupo;
 - Comunidade: Fóruns e espaços comunitários para troca de experiências e apoio mútuo entre usuários.
 
+---
 
-👥 Público-Alvo e Parceiros
+## Público-Alvo e Parceiros
 
 O aplicativo é direcionado a pessoas com deficiência que enfrentam barreiras na prática de exercícios. 
 
@@ -39,8 +42,9 @@ O projeto buscará parcerias estratégicas com:
 - Universidades para suporte técnico e voluntariado estudantil;
 - Órgãos públicos e empresas privadas com programas de responsabilidade social.
 
+---
 
-📈 Impacto Esperado e Sustentabilidade
+## Impacto Esperado e Sustentabilidade
 
 O impacto social do projeto será medido por indicadores como o número de usuários ativos, quantidade de voluntários e relatos de melhoria na saúde física e emocional.
 
@@ -48,8 +52,9 @@ A sustentabilidade do IncluFit se baseia em dois pilares:
 - Sustentabilidade Solidária: O projeto será mantido por um modelo de voluntariado, parcerias institucionais e campanhas de doação, garantindo a gratuidade da plataforma;
 - Sustentabilidade Verde - Digital: A hospedagem do aplicativo será em data centers com energia renovável e a arquitetura de software será otimizada para reduzir o consumo de energia nos dispositivos dos usuários.
 
+---
 
-👥 Autores
+## Autores
 
 Este projeto foi desenvolvido de forma colaborativa por estudantes de curso superior de tecnologia, com o objetivo de aprofundar os conhecimentos em ética e IA:
 
@@ -57,7 +62,8 @@ Este projeto foi desenvolvido de forma colaborativa por estudantes de curso supe
 * [João](https://github.com/devjoaovieira)
 * [Leo Silva S](https://github.com/leosilvas-collab)
 
+---
 
-📌 Observação
+## 📌 Observação
 
 Este é um projeto acadêmico desenvolvido na Universidade Cruzeiro do Sul Virtual. Acreditamos no seu potencial para evoluir e ter um impacto social positivo, democratizando o acesso ao exercício físico, promovendo a inclusão e a responsabilidade ambiental.
